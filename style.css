@@ -1,3 +1,7 @@
+#body {
+    background-color: chocolate;
+}
+
 img {
     width:auto;
     text-align:center;
@@ -17,6 +21,7 @@ a {
     
 ul {
     list-style: none;
+    font-size: 24px;
 }
 
 nav ul {
